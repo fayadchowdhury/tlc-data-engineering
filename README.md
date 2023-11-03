@@ -1,0 +1,1 @@
+This project downloads TLC 2016 Data for NYC, performs EDA and fact-dimension data transformations, sets up a Mage pipeline on GCP to monitor the ETL flows, exports tables into BigQuery and finally visualizes results in Looked studio.
