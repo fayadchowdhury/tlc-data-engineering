@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "tlc-data-engineering",
+  "private_key_id": "9ce8b6f6865d056c7ad4278ced9a0626fccb4063",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDVTZy7pLP43KfR\nnW1tR+tFwGFp4YaKuo7ypza8IYFqLbMZAlZm2Y4x1Z1xaglBysNHq7MjLDsCpoGI\nSfSTFfXmhbZpi+TfyJB339FtYhE3kADy7iV2hmW2c5e+dEB3uK/cIhGyXKV7Lwek\nXoeCuTuY+fzlyg3xNHRWaEaAAMaY+DqfRUFHc/7MbzEDZJ02VTeDuM54yGsoVLQn\nZaiY3M15FcDi3V90ic9iEMODWOjSa//IWwlQx85aA59db83dhAhzoJ5A/Gt4MMU4\nxR6DeQYlIbpUTIa9xu0k6ye1o15w45J1sc5ws2hXlByFC/sNyPAwI/ZD3ksBDfN7\nmiEqYGAfAgMBAAECggEAGYrWNRLHfwpZSZIVoPZG7PmDu2ycslnIYAlNq3Xtq9vL\nbGK/GvN8AhQHlaWyHxVF5ia1kwWAZCmxLYisR2gOpACos8yN5zhQCHLI/tVf+hco\nmJk+QN+zfVzWiSFy+Nh+V+4ierPPwx0CHW45Fu/R0a3vLqB6o+15QuxGCPJO1dFS\nY5kuyKqyNtR4bpA0p+pns1Yrc9c6JBFt6oUMEYfMrk8ks/4RPyZBgBAxldmKm3mq\nHpycdSSqZmRb6WImIBmEiOimGsmMWqW0Zb2IO/YFXqh07gKmBID2xFff06HR3+JF\nHUhe5mVOvM4lvMzWR3Ir2vBire3spcuGlufwemwgkQKBgQD4TY8MF89rUEbEGSms\n6BXzZnE2dyM858zLkYtmbxLQb8N2+fzrJ9rEQm5h4oQL/BS8S4idFtD1OadPC/9l\naKt5BPpHbwygKUJjsZiaI1hculgc6mSW5Fjn5+Njcax6nT6GvRv8MzWKwYONI0/G\n9K1A4FXKinUjI0fcxVaSvjwWMQKBgQDb6k7WW52s4nXmwbo42BwwmXWKiKky817N\nRHMLXoNwlHsMLo/D5FCCiACqfXYaAWsPp9BLc2vS4LF8m9rznjyUxKA6UTpHRUYK\npSuz0RbhlAwXsU3hYfPU6BZkMq/lj1JlfagnR0xX5f0ULnFG8uwMke99Hk1vyu9s\nMNFrzOE3TwKBgFM0Yi/yNp5GS0BhEjcPmnNyq5NNvvAk2NqKTgUoSUyxdvWCdb8z\nHrrPa/+/EPKXKTejtAa345OZGziA07deqL8n7NpNGxT8XnPbykA0geKoyuf9n3F0\n2Vn0uZzUNbDsykwKSLttSY7So8uCvrPzv67SvczeMrxwkR8ovYb02luxAoGBAIyO\nOis5TRK1fwOoqDwyq/nH619Kr1HYSKxLZnhKxRmMXQTRMaPTZj23bS2KmJRQebv8\n1t2SfMTARdBN0OhKJ5AyB/Kd/fCVbwnYvZDlP4mX1Q7DjPJTZ8OZPs51swS20MP7\nRyErqbi4T0O51z6wfnwePgIq/vVHsDTnEsKipQNzAoGAIGOB3OfkyNeaykK2y+4w\n1V7p4NiM802xkdQyH6ZGZ9ede3YjTWeIHrl2uedL5KSSFbuiNC6BKOVRii6+Bq7w\ntEfm0jwaYQCCPxxmL5lK4WkdofP54mgIfMTP8i4jhcGXpWXkGWXCq7gcF0ZlDD8X\ngXqaqBXkSZE1DOkUrJ7Z9Go=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tlc-data-engineering-sa@tlc-data-engineering.iam.gserviceaccount.com",
+  "client_id": "110355370635455985571",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tlc-data-engineering-sa%40tlc-data-engineering.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
